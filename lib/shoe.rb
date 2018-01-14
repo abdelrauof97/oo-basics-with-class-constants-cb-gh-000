@@ -13,3 +13,4 @@ class Shoe
 
 end
 
+learn spec/02_book_spec.rb
